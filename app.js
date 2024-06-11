@@ -1,1 +1,1 @@
-console.log('merge from local branch');
+console.log('change from dev');
