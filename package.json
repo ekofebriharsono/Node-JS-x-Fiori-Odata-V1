@@ -1,0 +1,17 @@
+{
+  "name": "odatav1",
+  "version": "1.0.0",
+  "description": "Comsune Response from Odata SAP",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app"
+  },
+  "keywords": [
+    "Odata",
+    "with",
+    "Node",
+    "JS"
+  ],
+  "author": "Eko Febri Harsono",
+  "license": "ISC"
+}
